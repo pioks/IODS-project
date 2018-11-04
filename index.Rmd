@@ -3,7 +3,7 @@ title: "IODS course project"
 author: Pihla
 output:
   html_document:
-    theme: paper
+    theme: simplex
     toc: true
     toc_depth: 2
     fig_caption: true
