@@ -1,4 +1,40 @@
 
 # About the project
 
-*Write a short description about the course and add a link to your github repository here. This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
+
+##Introduction to Open Data Science
+
+Autumn 2018
+
+###Links:
+[Course page (mooc)](https://mooc.helsinki.fi/course/view.php?id=158#section-0)  
+[GitHub repository](https://github.com/pioks/IODS-project)
+
+###Contents:
+
+**1. Tools and methods for open and reproducible research:**  
+R, RStudio, R Markdown, GitHub  
+
+**2. Regression and model validation:**  
+Data wrangling  
+Simple regression  
+Multiple regression  
+Regression diagnostics  
+
+**3. Logistic regression:**  
+Regression for binary outcomes 
+Training and testing a (predictive) model  
+Cross-validation  
+
+**4. Clustering and classification:**  
+Datasets in R  
+Discriminant analysis  
+K-means clustering  
+
+**5. Dimensionality reduction techniques:**  
+Principal component analysis  
+Multiple correspondence analysis  
+
+**6. Analysis of longitudinal data**  
+Graphical displays and summary measures  
+Linear mixed effects models  
