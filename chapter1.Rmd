@@ -4,13 +4,9 @@
 
 ##Introduction to Open Data Science
 
-Autumn 2018
+Autumn 2018  
 
-###Links:
-[Course page (mooc)](https://mooc.helsinki.fi/course/view.php?id=158#section-0)  
-[GitHub repository](https://github.com/pioks/IODS-project)
-
-###Contents:
+###Contents
 
 **1. Tools and methods for open and reproducible research:**  
 R, RStudio, R Markdown, GitHub  
@@ -22,7 +18,7 @@ Multiple regression
 Regression diagnostics  
 
 **3. Logistic regression:**  
-Regression for binary outcomes 
+Regression for binary outcomes   
 Training and testing a (predictive) model  
 Cross-validation  
 
@@ -38,3 +34,7 @@ Multiple correspondence analysis
 **6. Analysis of longitudinal data**  
 Graphical displays and summary measures  
 Linear mixed effects models  
+
+###Links
+[Course page (mooc)](https://mooc.helsinki.fi/course/view.php?id=158#section-0)  
+[GitHub repository](https://github.com/pioks/IODS-project)  
