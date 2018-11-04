@@ -1,7 +1,6 @@
 
 # About the project
 
-
 ##Introduction to Open Data Science
 
 Autumn 2018  
@@ -35,6 +34,7 @@ Multiple correspondence analysis
 Graphical displays and summary measures  
 Linear mixed effects models  
 
-###Links
+###Links  
+
 [Course page (mooc)](https://mooc.helsinki.fi/course/view.php?id=158#section-0)  
 [GitHub repository](https://github.com/pioks/IODS-project)  
